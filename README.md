@@ -51,6 +51,7 @@ For linting and code formatting:
 * [black](https://pypi.org/project/black/)
 
 ### Also used
+* [argparse](https://pypi.org/project/argparse/) nifty tool for loading command-line arguments
 * [environs](https://pypi.org/project/environs/) nifty tool for loading environment variables
 * [gitignore](https://github.com/github/gitignore/blob/master/Python.gitignore) template for Python
 
